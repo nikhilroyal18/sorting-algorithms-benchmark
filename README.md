@@ -24,8 +24,7 @@ This application benchmarks seven different sorting algorithms and three QuickSo
     *   [Quicksort](#quicksort)
     *   [Radix Sort](#radix-sort)
 5.  [Launch and Usage](#5-launch-and-usage)
-6.  [License](#6-license)
-7.  [Contact Information](#7-contact-information)
+6.  [Contact Information](#7-contact-information)
 
 ## 1. Project Structure
 
