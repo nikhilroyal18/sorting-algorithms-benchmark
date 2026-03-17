@@ -79,9 +79,9 @@ The experimental setup is designed to provide stable and comparable performance 
 ### 3.1. Machine Specifications
 
 *   **Operating System:** Windows 11
-*   **Model:** DELL G15 5530
-*   **Processor:** Intel Core i7-13650H
-*   **Graphics Card:** NVIDIA RTX 4050 Studio
+*   **Model:** LENOVO 83DA
+*   **Processor:** Intel(R) Core(TM) Ultra 5 125H
+*   **Graphics Card:** Intel(R) Arc(TM) Graphics
 
 
 ### 3.2. Timing Mechanism
@@ -259,4 +259,4 @@ These outputs are stored inside the `graphs/` directory.
 
 ## 6. Contact Information
 
-For any inquiries, please contact: kowndinyamarepalli2007@gmail.com
+For any inquiries, please contact: nikhilroyalsrikara@gmail.com
